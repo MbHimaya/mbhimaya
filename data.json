@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "আহমেদ হোসেন",
+    "mainImage": "https://i.imgur.com/OLVfrRv.jpeg",
+    "images": [
+      "https://picsum.photos/id/1005/800/600",
+      "https://picsum.photos/id/1011/800/600",
+      "https://picsum.photos/id/1012/800/600"
+    ],
+    "description": "আহমেদ হোসেন একজন অভিজ্ঞ শিক্ষক এবং সমাজকর্মী। তিনি দীর্ঘদিন ধরে শিক্ষা ও সামাজিক উন্নয়নে কাজ করে আসছেন। তার অবদান স্থানীয় সম্প্রদায়ে সুপরিচিত।"
+  },
+  {
+    "id": 2,
+    "name": "ফাতেমা খাতুন",
+    "mainImage": "https://picsum.photos/id/1015/600/600",
+    "images": [
+      "https://picsum.photos/id/1015/800/600",
+      "https://picsum.photos/id/1025/800/600"
+    ],
+    "description": "ফাতেমা খাতুন একজন নারী উদ্যোক্তা। তিনি গ্রামীণ নারীদের কর্মসংস্থান সৃষ্টিতে গুরুত্বপূর্ণ ভূমিকা রাখছেন। তার উদ্যোগ অনেক পরিবারকে আত্মনির্ভরশীল করেছে।"
+  },
+  {
+    "id": 3,
+    "name": "রফিকুল ইসলাম",
+    "mainImage": "https://picsum.photos/id/1027/600/600",
+    "images": [
+      "https://picsum.photos/id/1027/800/600",
+      "https://picsum.photos/id/1035/800/600",
+      "https://picsum.photos/id/1036/800/600",
+      "https://picsum.photos/id/1039/800/600"
+    ],
+    "description": "রফিকুল ইসলাম একজন কৃষক ও পরিবেশকর্মী। তিনি জৈব চাষাবাদ ও পরিবেশ সংরক্ষণে নিরলসভাবে কাজ করছেন। তার পদ্ধতি অনেক কৃষক অনুসরণ করছেন।"
+  },
+  {
+    "id": 4,
+    "name": "নাজমা বেগম",
+    "mainImage": "https://picsum.photos/id/64/600/600",
+    "images": [
+      "https://picsum.photos/id/64/800/600",
+      "https://picsum.photos/id/65/800/600"
+    ],
+    "description": "নাজমা বেগম একজন স্বাস্থ্যকর্মী। তিনি গ্রামীণ এলাকায় স্বাস্থ্য সচেতনতা বৃদ্ধি এবং মা ও শিশু স্বাস্থ্য সেবায় নিবেদিতপ্রাণ।"
+  }
+]

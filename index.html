@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MB Himaya</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <a href="/" class="logo">MB Himaya</a>
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="নাম দিয়ে খুঁজুন..." autocomplete="off">
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">ব্যক্তি পরিচিতি</h1>
+    <div class="grid" id="peopleGrid"></div>
+    <div class="no-result" id="noResult">কোনো ফলাফল পাওয়া যায়নি</div>
+  </main>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal">
+      <button class="modal-close" id="modalClose">&times;</button>
+      <img src="" alt="" class="modal-main-img" id="modalMainImg">
+      <div class="modal-body">
+        <h2 class="modal-name" id="modalName"></h2>
+        <p class="modal-desc" id="modalDesc"></p>
+        <div id="extraImagesSection" style="display:none;">
+          <div class="extra-images-title">আরও ছবি</div>
+          <div class="extra-images" id="extraImages"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="footer-inner">
+      <strong>এই ওয়েব পোর্টালের উদ্দেশ্য</strong><br>
+      এই পোর্টালটি নির্দিষ্ট কিছু ব্যক্তির তথ্য ও ছবি সহজে দেখার জন্য তৈরি করা হয়েছে। 
+      এখানে থাকা সকল তথ্য শুধুমাত্র তথ্যমূলক উদ্দেশ্যে প্রকাশ করা হয়েছে। 
+      কোনো তথ্য ভুল বা আপডেটের প্রয়োজন হলে সংশ্লিষ্ট কর্তৃপক্ষের সাথে যোগাযোগ করুন।<br><br>
+      যোগাযোগ: <a href="mailto:mbhimayainfo@gmail.com" style="color:#93c5fd;">mbhimayainfo@gmail.com</a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
